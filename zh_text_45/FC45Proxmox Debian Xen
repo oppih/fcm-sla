@@ -1,0 +1,11 @@
+FC45Proxmox Debian Xen - Part 2
+Proxmox & Debian Xen - Part 2
+
+我意识到“第二部分”有点晚了，但是由于上个月的考试，我没能腾出时间配置测试机器。本来假期中我有时间配置测试环境的，可惜我的笔记本太老，不能有效地运行Xen，也就不能进行测试了。所以，我不得不推迟了第二部分的Debian Xen，直到我把它安装到我的Arch机器上，或者另找一台合适的电脑作为测试机。我向所有想要从本文中更深入了解Xen的读者道歉。所以，现在我要向大家介绍一些我熟悉的虚拟系统，我发现他们都很有用或者有意思。废话少说，下面开始正式内容(无先后顺序)。
+Proxmox VE——一种易用的企业型开放虚拟平台，它设计为可以方便地运行虚拟服务器。它基于Debian Linux并提供了很多虚拟应用和指令，可以从Live CD安装全功能的Proxmox。它支持多种形式的虚拟化(例如Linux主机的kvm)。我是在看Hak5(www.revision3.com/hak5)时知道Promox的，你可以在下面网站找到更多相关信息：http://www.promox.com/products/promox-ve。
+Qemu——一个基于QT的虚拟系统。虽然它并不如VirtualBox或VMWare那样强大，但其优点是可以做成便携式的，可以放在一个U盘中。很长一段时间我是从Qemu虚拟磁盘中运行Damn Small Linux的。更多关于Qemu的信息可以从下面网站找到：http://wiki.qemu.org/Main_Page。
+VirtualBox——这个就不用多说了，因为上几篇文章中我就一直在使用。更多相关信息：http://www.virtualbox.org/。
+VMWare——跟VirtualBox非常类似的系统，而且很知名。更多相关信息：http://www.vmware.com/。
+KVM——可以作为Promox后端，是一种Linux上的全能虚拟化解决方案，只要处理器支持Intel VT或AMD-V指令集中的任意一种即可。通常，KVM要求一种修改过的Qemu系统，并且硬件也是私有的(意思是硬件不能在客户机间共享，但是可以由客户机分别使用)。KVM被包含在了任何内核中，比如2.6.20。更多相关信息：http://www.linux-kvm.org/page/Main_Page。
+Xen——一种面向企业的虚拟化解决方案，在很大范围内提供各种选项和硬件支持(包括主机和客户机)。更多相关信息：http://www.xen.org/。
+除了以上列出的6种之外，我知道还有很多虚拟化系统。要是有人有喜欢的系统或有以上列出系统的使用经验，发邮件给我说说你的体会吧。和以前一样，可以通过lswest34@gmail.com联系我，同时记得在主题中包含“Virtualization”或“Full Circle Magazine”字样，这样我就不会漏掉你的邮件了。我要再次为我写这篇文章和没能写有关Xen的文章的第二部分道歉。这篇文章比较短的原因是我花了太多时间让我的测试机运行起来，没有第二部分是因为测试机没有按照我本来想的样子运行！这也可以作为一个例子说明时间管理在生活中是多么重要。

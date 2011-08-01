@@ -1,0 +1,22 @@
+FC45Top 5
+TOP 5 音乐乐谱软件
+作者： Andrew Min
+LilyPond
+主页: http://www.lilypond.org/
+LilyPond是世界上最知名的开源活页乐谱软件之一。它由两名荷兰音乐家Han-Wen Nienhuys和Jan Nieuwenhuizen创建。它内置的一种强大但却简单的脚本语言提供了对音符、和声、歌词、管弦乐声部和其他许多谱曲必备元素的支持。你还可以添加作曲者和作词者、大调/小调、音部等信息。一切就绪以后，你可以把所有信息导出为LeTex、HTML等格式，在装了插件后还能导出到OpenOffice.org。
+要安装LilyPond的话，选择软件仓库universe部分的lilypond包即可。
+LilyPondTool
+主页: http://lilypondtool.organum.hu/ 如果你更青睐一个全功能的集成开发环境，试一试LilyPondTool。它是jEdit的一个插件，后者是用Java写的一个代码编辑器。所以，你不仅拥有本插件的所有功能(一个LilyPond调试器、代码补全以及宏支持)，而且还拥有了jEdit原本的所有特性(插件、自动缩进、语法高亮、多行折叠等)。
+要安装LilyPondTool的话，你需要首先安装jEdit，你可以选择软件仓库universe部分的jedit包。安装jEdit之后你有两种选择：你可以安用jEdit的插件管理器安装LilyPondTool，或者你可以使用由SourceForge托管的包，链接为：http://url.fullcirclemagazine.org/e6ff17。
+Denemo
+主页: http://www.denemo.org/
+许多音乐家对于空无一物的纯文本编辑器和看起来让人疑惑的脚本语言并不十分感冒。Denemo对他们来说是一个绝佳的方案，经过十年的发展，这个软件扮演了LilyPond的友好的GTK+图形界面的角色。你可以使用电脑键盘或MIDI器材来输入音符。它还支持类似宏的脚本和大量的快捷键。你可以用它来编辑已有的LilyPond文件，然后导出为PDF、MIDI或PNG等多种文件格式。
+要安装Denemo的话，选择软件仓库universe部分的denemo包即可。
+NoteEdit
+主页: http://noteedit.berlios.de/
+如果你是Kubuntu的用户，也许你会更喜欢基于KDE的NoteEdit。它提供类似于LilyPond的布局特性、歌词和多种自动化工具(例如自动的小节线插入)。你也可以用一个简单的MIDI播放器来预览你的总谱，并且导出到为数众多的文件格式。另外，它原本的文件格式仍是纯文本。所以如果不想使用图形界面，你可以手工编辑任何一个文件。
+要安装NoteEdit的话，选择软件仓库universe部分的noteedit包即可。
+Rosegarden
+主页: http://www.rosegardenmusic.com/
+如果你想要一个功能更加齐全的软件包，那么尝试一下Rosegarden。与其说它是一个乐谱编辑器，不如说它更多的是一个音序器；所以自然地，它拥有长长的功能列表。它不仅支持MIDI输入设备，还支持高级混音工具和综合器。在你完成你的混音工程之后，你可以用它的基于LilyPond的驱动来导出。所有这一切都是在JACK框架下完成的，因此你也可以把Rosegarden与多种其他音频应用软件整合。
+要安装Rosegarden的话，选择软件仓库universe部分的rosegarden包即可。Rosegarden在Ubuntu Studio中是预安装的软件。

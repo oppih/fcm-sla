@@ -1,0 +1,16 @@
+FC45linux news
+Broadcom加入Linux基金会
+无线芯片制造厂商Broadcom加入了Linux基金会，这意味着它以后会为Linux发布更多的开源驱动程序。在上一个月，还有Timesys、Protecode和Mentor Graphics三家公司加入了这个非营利性的Linux倡议组织。
+长久以来，Broadcom一直被Linux的开源社区冠以恶名，但在去年9月，这家无线半导体设备生产商开始了亡羊补牢的行动——为它当时最新的802.11n芯片组发布了开源的Linux驱动程序。
+现在，Broadcom以加入非营利性的Linux基金会(LF)的行动作为新的一步，让世人更加相信他们可能会带来更多的Linux驱动程序，并且也会跟进相应的技术支持。
+来源： linuxfordevices.com
+AskUbuntu问题总数已达6000
+三个月前，作为新的Ubuntu计划的一部分，我们成功地启动了永久的问答式网站：http://askubuntu.com 。现在我们的问题总数来到了6000大关。来自8600个用户的14000个回答，解决了这6000个问题中的91%。对问题和回答的投票也达到了60000次。(译者注：翻译时该网站的问题总数已接近8000)
+来源: txwikinger.me.uk
+LibreOffice首次正式发布来临
+The Document Foundation(TDF)宣布正式发布开源办公套件LibreOffice的第一个稳定版LibreOffice 3.3。它所包含的各个部件都引入了许多值得一提的新特性和改善。更重要的是，此次发布展现了新生的LibreOffice项目不断成长的力量。
+TDF是由OpenOffice.org(OOo)的一群核心贡献者于去年成立的。他们决定建立一个独立的组织来开发一个由社区驱动的OOo分支。由于甲骨文(Oracle)未能处理好管理问题，严重影响到OOo曾经在Sun领导时期的发展模式，尤其是该项目的版权分配政策引发了巨大的争议。Oracle对Sun的收购以及其后对Sun遗留的开源业务的混乱管理，导致了人们对OOo的未来以及在Oracle的统治下社区还能否和谐可持续发展充满了怀疑，这一切的一切使得这些OOo曾经的开发中坚力量相信，采取行动是非常必要的。
+来源： arstechnica.com -->
+
+Full Circle Notifier Beta版发布！
+我们的自己人，Robert Clipsham(mrmonday)发布了Full Circle Notifier的第一个Beta版。这是一个驻留在你系统托盘区的小应用程序，不仅能够告诉你新的期数以及播客的发布，还能设置为帮你自动下载杂志/播客的最新文件！一些志愿者为不同的发行版创建了FCN的安装包。欲获得更多信息，请查阅FCN的Google Group：http://goo.gl/4Ob4

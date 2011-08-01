@@ -1,0 +1,12 @@
+FC45Install Ubuntu With m23
+使用m23安装Ubuntu
+作者：Hauke Goos-Habermann
+m23( http://m23.sf.net )是GPL协议下的一款免费的软件分发和管理工具，它可以负责批量安装和配置基于Ubuntu、Kubuntu、Xubuntu、Debian或Linux Mint 9下的客户端。所有的m23管理工作都可以通过Web页面进行，而创建一个新的m23客户端只需要简单的三步而已。它还可以实现整合现有的基于Debian的客户端。它提供的群组功能和批量工具让你可以轻易地管理大量的客户端。m23同时提供了客户端和服务器的备份工具软件以防止数据的丢失。通过“虚拟整合方案”的实现，m23可以创建和管理运行在真实的m23服务器(或客户端)之上的虚拟m23客户端。所有的脚本和软件包(供客户端安裝使用)都可以通过m23的Web页面直接创建。
+现在介绍的差不多了！让我们开始讲解如何安装m23服务器和客户端吧！
+首先，你需要安装一个m23的服务器，这台服务器需要接入互联网(以安装标准m23客户端)。m23服务器会保存所有m23客户端的信息、缓存所有的软件包、提供Web操作页面等等。你可以使用ISO镜像文件刻录一张m23服务器的安装CD，也可以使用像VirtualBox这样的虚拟机软件来安装。它还提供了让你在一台已有的Debian服务器或虚拟服务器上安装m23的Debian安装包。以上这些全都可以在这里下载：http://url.fullcirclemagazine.org/bcad77 。你也可以在“安装指南”里找到每一种安装方式的具体细节：http://url.fullcirclemagazine.org/1410b6 。
+m23服务器安装完成以后，你需要至少一台额外的主机(作为m23客户端)，无论是真正的主机还是虚拟机都可以。因为m23客户端通过PXE(通过CD或软盘也行)启动，所以你必须知道主机的MAC地址。(PXE是Preboot eXecution Environment的缩写，可以让电脑通过网卡直接启动)
+在浏览器里访问你的m23服务器的ip地址然后登入。首先你需要点击“Clients”>“Add”(见上图)添加一个客户端。在这里输入你这个客户端所需的一些设置，MAC地址必不可少。如果你不知道部分字段里应该填写什么，没关系，每一页下方都有在线帮助(online help)。
+现在，打开你的m23客户端，让它通过PXE启动。启动以后，在服务器的Web页面里你将可以看到一份这台客户端主机的硬件信息汇总，然后就可以开始给你的m23客户端主机进行分区和格式化了：点击“Clients”>“Setup”里对应客户端旁的“Setup”按钮。然后，你可以调整你的磁盘空间，如果你的m23客户端是一台虚拟机或者你不需要保留现有磁盘上的数据，你也可以选择“Partition scheme”(分区表)下的“Automatic partitioning”(自动分区)，点击“Execute scheme”(执行)。这会删除现有磁盘上的所有分区和数据，然后创建两个全新的分区(一个用于操作系统及一些数据，一个用于交换分区swap)。在你点击“Finalise the partitioning and formatting and choose the distribution”(确定分区和格式化方式然后选择发行版本)之前，你都可以修改这些分区设置，满意了以后，点击这个按钮吧。
+现在，你可以选择你的系统发行版本了。目前可以选择的有Ubuntu、Kubuntu、Xubuntu(都是10.04 lucid Lynx LTS版本的)、Debian和Linux Mint 9。如果要选择Ubuntu，则在软件源列表中选中“Lucid”后点击“Select”按钮。在“User interface”(用户界面)列表中，选择Ubuntu “flavour”。如果你希望使用Kubuntu(KDE)的话，则选择“KubuntuDesktop”；如果你希望使用Ubuntu(Gnome)的话，则选择“UbuntuDesktop”；如果你希望使用Xubuntu(XFce)，则选择“XubuntuDesktop”。然后点击“Select”按钮确认。接着选择你所需的内核，最后点击“install distribution”(安装选中的发行版)。
+一段时间以后，客户端将会完成安装并且重新启动，你就会看到熟悉的KDM登录对话框了(如果你选择的是“KubuntuDesktop”)！输入之前添加客户端时设置的用户名和密码即可。
+你可以在m23项目主页上( http://m23.sourceforge.net )找到非常多的文章，来了解本文没有涉及到的有关m23的内容。那里提供了讨论区用于报告bug、提问、m23的最新消息、手册、源代码、视频、截图以及各种信息。

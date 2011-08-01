@@ -1,0 +1,18 @@
+FC45Linux Lab
+LINUX LAB
+作者：Ronnie Tucker
+
+“把所有鸡蛋放到一个篮子”的说法在这里就不合适了。如果有人请你修电脑——你拿出你很有自信的Ubuntu Live CD，却发现那台电脑没有光驱，或者那台电脑实在太老，导致新的Ubuntu CD都无法启动。
+多重启动U盘就是一个可以启动到一个菜单里，而这个菜单可以让你选择启动哪个Linux发行版的U盘。所使用的发行版可以是Live版本(像Ubuntu或Mint)或精简版本(Puppy或DSL)，使用什么发行版完全取决于你。
+创建多重启动U盘最简便的方法是使用MultiSystem应用程序(以前也叫做MultiBoot)，你可以从这里下载：http://liveusb.info/multisystem/install-depot-multisystem.sh.tar.bz2。
+下载完成之后，双击文件，把.sh文件解压到你选择的目录中。现在，双击install-depot-multisystem.sh文件就可以安装MultiSystem。程序可能会检查更新，如果提示可以升级或更新，最好这样做。如果你已经安装了MultiBoot，会要求权限以卸载MultiBoot并安装MultiSystem，也就是MultiBoot更新。
+安装完成之后，可以在 菜单>附件>MultiSystem找到它。
+在MultiSystem窗口中你会看到关于Grub2的红色警告(在左侧)，不用担心这个。重要的是你应当看到你的U盘已经列出来了。双击U盘继续。然后会出现一个终端窗口提示要求提供管理员密码——这让MultiSystem可以访问你的U盘。
+如果你的U盘没有名字，或者名字不符合要求，MultiSystem会进行修复，然后要求你拔掉并重插U盘；同时你也需要重新加载MultiSystem(出现在左下方)。
+现在我们有空白的MultiSystem窗口了。前面的步骤完成之后，要做的就是将.iso文件拖放到MultiSystem窗口下面的空白方框中。
+然后会出现另外一个终端窗口(出现在下一页的顶部)显示一些MultiSystem正在进行的拷贝操作。
+拖放几个ISO文件后，你可以通过发行版列表旁边的箭头重排启动顺序。
+这就完了！现在你就有一个多重启动U盘了。在上面的例子中，我在1GB的U盘上安装了Puppy和TinyCore。
+等一下，我们如何知道你的U盘可以正常工作？一个很好的办法是使用Qemu来进行测试，点击发行版列表旁边的大"Q"就可以。
+我不仅可以测试菜单能否正常工作，还能测试发行版是否可以正常加载。上面显示的是我在Mint 10中用Qemu从U盘中运行Puppy。
+为了FC杂志中的Linux实验室，我在8GB的U盘中安装了Puppy,DSL,Tiny Core,Lubuntu 10.10和Linux Mint 10。我肯定在任何电脑上其中至少一个发行本可以启动。

@@ -1,0 +1,35 @@
+FC45 Q&A
+Q&A
+Gord Campbell整理
+如果你有Ubuntu相关的问题，请发邮件至：questions@fullcirclemagazine.org，Gord 会在随后的某期杂志中回答你的问题。请尽可能多的包含问题相关信息。
+Q 我在运行更新管理器时碰到下面错误： 需要安装不受信任的软件包 本操作需要安装来自不受信任源的软件包
+运行命令：sudo apt-get update我得到类似下面的信息： Err http://archive.canonical.com maverick Release.gpg 无法连接到68.199.83.207:7212 (68.199.83.207)。连接（110：连接超时）
+A 运行apt-get update时你处在代理服务器之后。禁用代理服务器即可。
+Q 哪个文件包含你共享文件的文件名？
+A 每个共享名都在文件夹/var/lib/samba/usershares中，共享文件名并不是保存在一个文件中的。
+Q 我是从Windows转来的用户，以前已经习惯了设置各种安全软件。在Ubuntu中我没看到这样的东西，“软件中心”里面也没有。没有必要安装像Norton这样的安全软件吗，还是说我忽略了一些东西？其他人都在用什么呢？
+A 一句话的回答是：你什么都不需要。具体点的回答是：是有反病毒软件的，但大部分时候，Linux上的反病毒软件扫描的是没法在Linux运行的Windows病毒。这样可以保护你的朋友，你不会发给他们有病毒的邮件附件，或者在他们的计算机上挂载有毒的CD或flash驱动器。Ubuntu带有iptables防火墙和其前端软件ufw,了解更详细信息你可以google：Ubuntu Security ubuntuforums
+Q 我买了一个TP-Link TL-WN727N USB无线适配器并将其连接到路由器上，但我无法连接到Internet。
+A 在终端中运行下面命令： sudo gedit /etc/modprobe.d/blacklist.conf
+滚动到文件末尾并加入下面内容： blacklist rt2800usb
+保存文件，重启并连接你的路由器。
+Q 我不小心把路由器重启了。我尝试用Linksys安装CD重装路由器并设置wifi网络，但是Ubuntu提示无法自动运行CD。
+A 你不需要安装CD，你完全可以在浏览器中配置路由器。连接到192.168.1.1，然后用admin和admin作为用户名和密码登录。你要做的第一件事就是修改这个密码。然后修改SSID（广播名称），指定加密类型并输入密码。
+Q 最近我全新安装了Ubuntu 10.10。当我使用Live CD安装的时候，我选择“install Ubuntu”或“try Ubuntu without any changes to your computer”后我的显示器就提示“无输入信号”。我在网上搜索了一下，说要选择nomodeset才能进行安装，我按照他们说的完成安装之后，但是BIOS启动屏幕显示出现几秒钟的闪烁下划线，之后显示器还是显示“无输入信号”。GRUB没有出现，但是凭借10到20秒之后的登录音乐我能判断电脑是工作正常的，就是显示器上没有任何显示。
+A 开机的时候，按住shift键一直到你看到Grub菜单。高亮第一个条目并按“e”进行编辑。将光标移动到“quiet splash”的地方并删除，然后在同样地位置输入“nomodeset”（不带引号）。按Ctrl+X继续启动进程。进入桌面之后，选择“系统>管理>额外驱动”并激活所有推荐的驱动，这样问题就应该解决了。
+Q 我在两台电脑上安装10.10. 安装进行的非常顺利，但是Firefox和Opera打开网页都很慢，我怀疑这是IPv6的问题。
+A 启动Firefox并在地址栏输入： about:config 忽略警告信息并继续。在过滤框中输入ipv6。双击所在行并将其值从false改为true。 重启Firefox就可以全速浏览了。
+Q 我用的是64位的Maverick连接到一个隐藏的无线网络。但我将加密类型从WEP改为WPA2之后就无法自动连接了。在无线配置中我选中了“自动连接”和“允许所有人使用”。
+A 安装WICD替代Network Manager就可以解决这个问题。
+Q 我在想有没有办法在WinFF中将MPEG文件转换成iPod兼容格式。
+A （感谢Ubuntu论坛里的fakeoutdoorsman）忘了WinFF吧，H.264 iPod预制已经严重过时了。尝试直接在命令行中使用： ffmpeg -i input.mp4 -vcodec mpeg4 -map_meta_data 0:0 -s 480x320 -acodec libfaac output.m4v （注意：你需要首先切换到要转换的文件的所在目录）
+Q 我在一台老电脑上安装了Ubuntu 10.10，由于有点慢，所以我改用Xubuntu，但是这样我就没法看到我的（NTFS格式）/home文件夹了。
+A 输入下面命令： sudo mkdir -p /mnt/data
+sudo ntfs-3g /dev/sda5 /mnt/data （sda5是由命令sudo fdisk -l得出）
+现在打开文件浏览器，然后手动切换到/mnt/data
+Q 我电脑上安装的是64位Windows7。我同时还安装了Lubuntu 10.10。安装Lubuntu之后的首次重启时，出现选项让我选择是启动到Lubuntu还是Windows，我选了Lubuntu。第二次重启就只有从Lubuntu启动的选项了。
+A 安装os-prober sudo apt-get install os-prober
+然后运行：
+sudo os-prober
+Q 我为路由器输入了密码，但是Network Manager还是一直让我输入密码。
+A 将ssid改为一个小写的单词。
