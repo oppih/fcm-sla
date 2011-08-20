@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.0.rc3">
-    <DOCUMENT ANZPAGES="33" PAGEWIDTH="841.89" PAGEHEIGHT="595.276" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="3" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="11" DCOL="1" DGAP="11.3386" TabFill="" TabWidth="36" AUTHOR="various" COMMENTS="http://www.fullcirclemagazine.org" KEYWORDS="" PUBLISHER="" DOCDATE="September 2007" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Creative Commons ShareAlike v3" DOCCONTRIB="" TITLE="full circle" VHOCH="33" VHOCHSC="100" VTIEF="33" VTIEFSC="100" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="6" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="" DPPr="" DPIn="" DPInCMYK="" DPIn2="" DPIn3="" DISc="1" DIIm="0" ALAYER="29" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="10.0006" MAJGRID="50.0003" SHOWGRID="0" SHOWGUIDES="0" showcolborders="0" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="3.99969" GRAB="2" POLYC="15" POLYF="0.86077" POLYR="-6" POLYCUR="0" POLYFD="-12" POLYS="1" AutoSave="0" AutoSaveTime="600000" ScratchBottom="20.0013" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.0013" GapHorizontal="0" GapVertical="39.9997" StartArrow="0" EndArrow="0" PEN="header bar" BRUSH="pale" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="0" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="0" PASPECT="1" EmbeddedPath="0" HalfRes="2" dispX="10" dispY="10" constrain="15" MINORC="#d5ff57" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="3.99969" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4">
+    <DOCUMENT ANZPAGES="33" PAGEWIDTH="841.89" PAGEHEIGHT="595.276" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="3" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="11" DCOL="1" DGAP="11.3386" TabFill="" TabWidth="36" AUTHOR="various" COMMENTS="http://www.fullcirclemagazine.org" KEYWORDS="" PUBLISHER="" DOCDATE="September 2007" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Creative Commons ShareAlike v3" DOCCONTRIB="" TITLE="full circle" VHOCH="33" VHOCHSC="100" VTIEF="33" VTIEFSC="100" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="6" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="" DPPr="" DPIn="" DPInCMYK="" DPIn2="" DPIn3="" DISc="1" DIIm="0" ALAYER="33" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="10.0006" MAJGRID="50.0003" SHOWGRID="0" SHOWGUIDES="0" showcolborders="0" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="3.99969" GRAB="2" POLYC="15" POLYF="0.86077" POLYR="-6" POLYCUR="0" POLYFD="-12" POLYS="1" AutoSave="0" AutoSaveTime="600000" ScratchBottom="20.0013" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.0013" GapHorizontal="0" GapVertical="39.9997" StartArrow="0" EndArrow="0" PEN="header bar" BRUSH="pale" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="0" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="0" PASPECT="1" EmbeddedPath="0" HalfRes="2" dispX="10" dispY="10" constrain="15" MINORC="#d5ff57" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="3.99969" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="72" maxResolution="4800" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="72" maxResolution="4800" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="4800" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -288,7 +288,13 @@
             <ITEXT CH="LibreOffice首次正式发布来临"/>
             <para PARENT="Article Inner Headers"/>
             <para PARENT="Basic Text + indent"/>
-            <ITEXT CH="The Document Foundation(TDF)宣布正式发布开源办公套件LibreOffice的第一个稳定版LibreOffice 3.3。它所包含的各个部件都引入了许多值得一提的新特性和改善。更重要的是，此次发布展现了新生的LibreOffice项目不断成长的力量。"/>
+            <ITEXT CH="The"/>
+            <nbspace/>
+            <ITEXT CH="Document"/>
+            <nbspace/>
+            <ITEXT CH="Foundation(TDF)宣布正式发布开源办公套件LibreOffice的第一个稳定版LibreOffice"/>
+            <nbspace/>
+            <ITEXT CH="3.3。它所包含的各个部件都引入了许多值得一提的新特性和改善。更重要的是，此次发布展现了新生的LibreOffice项目不断成长的力量。"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT CH="TDF是由OpenOffice.org(OOo)的一群核心贡献者于去年成立的。他们决定建立一个独立的组织来开发一个由社区驱动的OOo分支。由于甲骨文(Oracle)未能处理好管理问题，严重影响到OOo曾经在Sun领导时期的发展模式，尤其是该项目的版权分配政策引发了巨大的争议。Oracle对Sun的收购以及其后对Sun遗留的开源业务的混乱管理，导致了人们对OOo的未来以及在Oracle的统治下社区还能否和谐可持续发展充满了怀疑，这一切的一切使得这些OOo曾经的开发中坚力量相信，采取行动是非常必要的。"/>
@@ -486,7 +492,7 @@
             <nbspace/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Play"/>
             <nbspace/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Daemon)中读取音乐信息，然后根据歌手和专辑名从albumart.org下载图片。如果脚本没能自动下载图片，我可以手动下载，按规则取好相应的文件名放在.covers目录中，它就会被用来显示了。对于在Conky中显示的问题，脚本会在/tmp/cover中保存一份当前音乐的图片拷贝，然后Conky就会显示那张拷贝的图片（每15秒更新一次）。这部分脚本被包含在了一个if语句中，为的是避免在MPD没有运行的情况下显示空白信息。我将我的脚本综合起来放在了一个基本的.conkyrc文件中：http://lswestfcm.pastebin.com/rrCS0hDt，脚本在这里：http://lswestfcm.pastebin.com/iX7Y7W3v"/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Daemon)中读取音乐信息，然后根据歌手和专辑名从albumart.org下载图片。如果脚本没能自动下载图片，我可以手动下载，按规则取好相应的文件名放在.covers目录中，它就会被用来显示了。对于在Conky中显示的问题，脚本会在/tmp/cover中保存一份当前音乐的图片拷贝，然后Conky就会显示那张拷贝的图片(每15秒更新一次)。这部分脚本被包含在了一个if语句中，为的是避免在MPD没有运行的情况下显示空白信息。我将我的脚本综合起来放在了一个基本的.conkyrc文件中：http://lswestfcm.pastebin.com/rrCS0hDt，脚本在这里：http://lswestfcm.pastebin.com/iX7Y7W3v"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="现在，听我详细解释。.conkyrc的第一行(“imlib"/>
@@ -536,7 +542,7 @@
             <nbspace/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Circle"/>
             <nbspace/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Magazine”，这样我会绝不会错过它！另外，我更希望邮件能用英语或者德语来写——我以前收过到一封法语邮件，这非常难以解密。那封邮件中，那个读者指出了“file命令”的存在——那是一个程序，它能显示关于文件类型的信息（例如JPEG，MP3，等等）。"/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Magazine”，这样我会绝不会错过它！另外，我更希望邮件能用英语或者德语来写——我以前收过到一封法语邮件，这非常难以解密。那封邮件中，那个读者指出了“file命令”的存在——那是一个程序，它能显示关于文件类型的信息(例如JPEG，MP3，等等)。"/>
             <trail PARENT="Basic Text + indent"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1379,7 +1385,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="114.174" YPOS="5820.9266" WIDTH="813.544" HEIGHT="483.528" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="4" COLGAP="11.3386" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="2" PLINEEND="0" PLINEJOIN="0" LINESP="13.2" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="DejaVu Sans Book" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 813.544 0 813.544 0 813.544 0 813.544 0 813.544 483.528 813.544 483.528 813.544 483.528 813.544 483.528 0 483.528 0 483.528 0 483.528 0 483.528 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 813.544 0 813.544 0 813.544 0 813.544 0 813.544 483.528 813.544 483.528 813.544 483.528 813.544 483.528 0 483.528 0 483.528 0 483.528 0 483.528 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="2" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="2.75965e-255" gWidth="0" gHeight="3.00933e-252" PSTYLE="Basic Text" LAYER="11" BOOKMARK="0" NEXTITEM="418" BACKITEM="-1">
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="m23(http://m23.sf.net )是GPL协议下的一款免费的软件分发和管理工具，它可以负责批量安装和配置基于Ubuntu、Kubuntu、Xubuntu、Debian或Linux"/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="m23(http://m23.sf.net)是GPL协议下的一款免费的软件分发和管理工具，它可以负责批量安装和配置基于Ubuntu、Kubuntu、Xubuntu、Debian或Linux"/>
             <nbspace/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Mint"/>
             <nbspace/>
@@ -2369,7 +2375,7 @@
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="下一页会给出一些可能的棋局。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="正如你所看到的，这个逻辑有些复杂，但是我们可以比较简单地通过一系列的IF语句将它分解（注意我用到了Then这个单词，但是在Python中，我们会用“:”）。你应当能够通过修改上期的代码来解决这个问题，或者，自己从头写一个可以被称作井字过三关的程序。 "/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="正如你所看到的，这个逻辑有些复杂，但是我们可以比较简单地通过一系列的IF语句将它分解(注意我用到了Then这个单词，但是在Python中，我们会用“:”)。你应当能够通过修改上期的代码来解决这个问题，或者，自己从头写一个可以被称作井字过三关的程序。 "/>
             <trail PARENT="Basic Text + indent"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -2461,15 +2467,19 @@
             <ITEXT FONT="WenQuanYi Zen Hei Mono Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Proxmox"/>
             <nbspace/>
             <ITEXT FONT="WenQuanYi Zen Hei Mono Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="VE"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="——一种易用的企业型开放虚拟平台，它设计为可以方便地运行虚拟服务器。它基于Debian"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="一种易用的企业型开放虚拟平台，它设计为可以方便地运行虚拟服务器。它基于Debian"/>
             <nbspace/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Linux并提供了很多虚拟应用和指令，可以从Live"/>
             <nbspace/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="CD安装全功能的Proxmox。它支持多种形式的虚拟化(例如Linux主机的kvm)。我是在看Hak5(www.revision3.com/hak5)时知道Promox的，你可以在下面网站找到更多相关信息：http://www.promox.com/products/promox-ve。"/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="CD安装全功能的Proxmox。它支持多种形式的虚拟化(例如Linux主机的kvm)。我是在看Hak5(www.revision3.com/hak5)时知道Promox的，你可以在下面网站找到更多相关信息：http://www.promox.com/products/promox-ve 。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="WenQuanYi Zen Hei Mono Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Qemu"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="——一个基于QT的虚拟系统。虽然它并不如VirtualBox或VMWare那样强大，但其优点是可以做成便携式的，可以放在一个U盘中。很长一段时间我是从Qemu虚拟磁盘中运行Damn"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="一个基于QT的虚拟系统。虽然它并不如VirtualBox或VMWare那样强大，但其优点是可以做成便携式的，可以放在一个U盘中。很长一段时间我是从Qemu虚拟磁盘中运行Damn"/>
             <nbspace/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Small"/>
             <nbspace/>
@@ -2477,21 +2487,29 @@
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="WenQuanYi Zen Hei Mono Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="VirtualBox"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="——这个就不用多说了，因为上几篇文章中我就一直在使用。更多相关信息：http://www.virtualbox.org/。"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="这个就不用多说了，因为上几篇文章中我就一直在使用。更多相关信息：http://www.virtualbox.org/。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="WenQuanYi Zen Hei Mono Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="VMWare"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="——跟VirtualBox非常类似的系统，而且很知名。更多相关信息：http://www.vmware.com/。"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="跟VirtualBox非常类似的系统，而且很知名。更多相关信息：http://www.vmware.com/。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="WenQuanYi Zen Hei Mono Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="KVM"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="——可以作为Promox后端，是一种Linux上的全能虚拟化解决方案，只要处理器支持Intel VT或AMD-V指令集中的任意一种即可。通常，KVM要求一种修改过的Qemu系统，并且硬件也是私有的(意思是硬件不能在客户机间共享，但是可以由客户机分别使用)。KVM被包含在了任何内核中，比如2.6.20。更多相关信息：http://www.linux"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="可以作为Promox后端，是一种Linux上的全能虚拟化解决方案，只要处理器支持Intel VT或AMD-V指令集中的任意一种即可。通常，KVM要求一种修改过的Qemu系统，并且硬件也是私有的(意思是硬件不能在客户机间共享，但是可以由客户机分别使用)。KVM被包含在了任何内核中，比如2.6.20。更多相关信息：http://www.linux"/>
             <nbhyphen/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="kvm.org/page/Main_Page。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="WenQuanYi Zen Hei Mono Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Xen"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="——一种面向企业的虚拟化解决方案，在很大范围内提供各种选项和硬件支持(包括主机和客户机)。更多相关信息：http://www.xen.org/。"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="一种面向企业的虚拟化解决方案，在很大范围内提供各种选项和硬件支持(包括主机和客户机)。更多相关信息：http://www.xen.org/。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="除了以上列出的6种之外，我知道还有很多虚拟化系统。要是有人有喜欢的系统或有以上列出系统的使用经验，发邮件给我说说你的体会吧。和以前一样，可以通过lswest34@gmail.com联系我，同时记得在主题中包含“Virtualization”或“Full"/>
@@ -2797,7 +2815,10 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="114.174" YPOS="7083.682" WIDTH="813.544" HEIGHT="491.412" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="4" COLGAP="11.3386" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="2" PLINEEND="0" PLINEJOIN="0" LINESP="13.2" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="DejaVu Sans Book" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 813.544 0 813.544 0 813.544 0 813.544 0 813.544 491.412 813.544 491.412 813.544 491.412 813.544 491.412 0 491.412 0 491.412 0 491.412 0 491.412 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 813.544 0 813.544 0 813.544 0 813.544 0 813.544 491.412 813.544 491.412 813.544 491.412 813.544 491.412 0 491.412 0 491.412 0 491.412 0 491.412 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="2" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.78019e-306" gYpos="4.79243676466009e-322" gWidth="3.89772e-253" gHeight="9.55387002072548e-316" PSTYLE="Basic Text" LAYER="33" BOOKMARK="0" NEXTITEM="431" BACKITEM="-1">
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="“把所有鸡蛋放到一个篮子”的说法在这里就不合适了。如果有人请你修电脑——你拿出你很有自信的Ubuntu"/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="“把所有鸡蛋放到一个篮子”的说法在这里就不合适了。如果有人请你修电脑"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="你拿出你很有自信的Ubuntu"/>
             <nbspace/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Live"/>
             <nbspace/>
@@ -2824,7 +2845,10 @@
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="安装完成之后，可以在菜单&gt;附件&gt;MultiSystem找到它。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="在MultiSystem窗口中你会看到关于Grub2的红色警告(在左侧)，不用担心这个。重要的是你应当看到你的U盘已经列出来了。双击U盘继续。然后会出现一个终端窗口提示要求提供管理员密码——这让MultiSystem可以访问你的U盘。"/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="在MultiSystem窗口中你会看到关于Grub2的红色警告(在左侧)，不用担心这个。重要的是你应当看到你的U盘已经列出来了。双击U盘继续。然后会出现一个终端窗口提示要求提供管理员密码"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="这让MultiSystem可以访问你的U盘。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="如果你的U盘没有名字，或者名字不符合要求，MultiSystem会进行修复，然后要求你拔掉并重插U盘；同时你也需要重新加载MultiSystem(出现在左下方)。"/>
@@ -2848,7 +2872,13 @@
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="我不仅可以测试菜单能否正常工作，还能测试发行版是否可以正常加载。上面显示的是我在Mint 10中用Qemu从U盘中运行Puppy。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="为了FC杂志中的Linux实验室，我在8GB的U盘中安装了Puppy,DSL,Tiny Core,Lubuntu 10.10和Linux Mint 10。我肯定在任何电脑上其中至少一个发行本可以启动。"/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="为了FC杂志中的Linux实验室，我在8GB的U盘中安装了Puppy,DSL,Tiny"/>
+            <nbspace/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Core,Lubuntu"/>
+            <nbspace/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="10.10和Linux"/>
+            <nbspace/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Mint 10。我肯定在任何电脑上其中至少一个发行本可以启动。"/>
             <para PARENT="Basic Text + indent"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -2880,7 +2910,7 @@
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="我希望无论你在哪里，你都度过了一个快乐的假期，欢迎来到新一年的FC杂志！今年(准确的说是四月份)将是FC杂志的四岁生日，很难相信我们已经做了那么长时间了，不管怎么样，到四月份就整整四年了。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="这个月，Lucas带来了另一篇虚拟化的文章，Greg写了Python系列的第19部分，而且我们会演示如何使用m23来安装Ubuntu，对于“Linux实验室”这篇文章我已经解释过了，我要找到的是一个最简单的方式来制作包含多个发行版的多启动U盘，在本月的Top5中，来自于Andrew的文章，是一个音乐记谱的应用，Robin正在成为一个KDE的粉丝，这太让人震惊了!"/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="这个月，Lucas带来了另一篇虚拟化的文章，Greg写了Python系列的第19部分，而且我们会演示如何使用m23来安装Ubuntu，对于“Linux实验室”这篇文章我已经解释过了，我要找到的是一个最简单的方式来制作包含多个发行版的多启动U盘，在本月的Top5中，来自于Andrew的文章，是一系列音乐记谱的应用，Robin正在成为一个KDE的粉丝，这太让人震惊了!"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="当我写这个评论的时候，Robin和gang刚刚发布了15条条目的播客，他们在其中讨论了从Android到Dropbox的所有东西，详情参见第六页，或者点击这个特殊页面右边的链接去下载。不仅如此，我觉得Robin也许已经解决了整合连载文章的问题，所以很期待不久就会有一期介绍使用Ubuntu"/>
@@ -2953,7 +2983,13 @@
             <ITEXT CH="Full Circle Notifier Beta版发布！"/>
             <para PARENT="Article Inner Headers"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="我们的自己人，Robert Clipsham(mrmonday)发布了Full Circle Notifier的第一个Beta版。这是一个驻留在你系统托盘区的小应用程序，不仅能够告诉你新的期数以及播客的发布，还能设置为帮你自动下载杂志/播客的最新文件！一些志愿者为不同的发行版创建了FCN的安装包。欲获得更多信息，请查阅FCN的Google Group: "/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="我们的自己人，Robert"/>
+            <nbspace/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Clipsham(mrmonday)发布了Full"/>
+            <nbspace/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Circle"/>
+            <nbspace/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Notifier的第一个Beta版。这是一个驻留在你系统托盘区的小应用程序，不仅能够告诉你新的期数以及播客的发布，还能设置为帮你自动下载杂志/播客的最新文件！一些志愿者为不同的发行版创建了FCN的安装包。欲获得更多信息，请查阅FCN的Google Group: "/>
             <ITEXT FONT="Ubuntu Bold" FONTSIZE="12" FEATURES="inherit underline" FCOLOR="HTML Link" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="http://goo.gl/4Ob4"/>
             <trail PARENT="Basic Text"/>
             <PageItemAttributes/>
@@ -3657,10 +3693,15 @@
             <ITEXT CH="加入Linux基金会"/>
             <para PARENT="Article Inner Headers"/>
             <para PARENT="Basic Text"/>
-            <ITEXT CH="无线芯片制造厂商Broadcom加入了Linux基金会，这意味着它以后会为Linux发布更多的开源驱动程序。在上一个月，还有Timesys、Protecode和Mentor Graphics三家公司加入了这个非营利性的Linux倡议组织。"/>
+            <ITEXT CH="无线芯片制造厂商Broadcom加入了Linux基金会，这意味着它以后会为Linux发布更多的开源驱动程序。在上一个月，还有Timesys、Protecode和Mentor"/>
+            <nbspace/>
+            <ITEXT CH="Graphics三家公司加入了这个非营利性的Linux倡议组织。"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para PARENT="Basic Text"/>
-            <ITEXT CH="长久以来，Broadcom一直被Linux的开源社区冠以恶名，但在去年9月，这家无线半导体设备生产商开始了亡羊补牢的行动——为它当时最新的802.11n芯片组发布了开源的Linux驱动程序。"/>
+            <ITEXT CH="长久以来，Broadcom一直被Linux的开源社区冠以恶名，但在去年9月，这家无线半导体设备生产商开始了亡羊补牢的行动"/>
+            <nbhyphen/>
+            <nbhyphen/>
+            <ITEXT CH="为它当时最新的802.11n芯片组发布了开源的Linux驱动程序。"/>
             <para PARENT="Basic Text + indent"/>
             <para PARENT="Basic Text"/>
             <ITEXT CH="现在，Broadcom以加入非营利性的Linux基金会(LF)的行动作为新的一步，让世人更加相信他们可能会带来更多的Linux驱动程序，并且也会跟进相应的技术支持。"/>
@@ -3681,7 +3722,7 @@
             <para PARENT="Basic Text + indent"/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="三个月前，作为新的Ubuntu计划的一部分，我们成功地启动了永久的问答式网站： ["/>
             <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit underline" FCOLOR="HTML Link" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="http://askubuntu.com"/>
-            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="] "/>
+            <ITEXT FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="]"/>
             <ITEXT CH="。现在我们的问题总数来到了6000大关。来自8600个用户的14000个回答，解决了这6000个问题中的91%。对问题和回答的投票也达到了60000次。(译者注：翻译时该网站的问题总数已接近8000)"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para PARENT="Basic Text + indent"/>
